@@ -1,0 +1,55 @@
+错误SQL语句：
+SELECT * FROM p_newsclass where f_id=0
+客户IP:127.0.0.1
+时间 :2016-04-19 08:26:23
+
+错误SQL语句：
+SELECT * FROM p_newsclass where f_id=0
+客户IP:127.0.0.1
+时间 :2016-04-19 08:26:51
+
+错误SQL语句：
+SELECT * FROM p_newsclass where f_id=0
+客户IP:127.0.0.1
+时间 :2016-04-19 08:26:55
+
+错误SQL语句：
+SELECT * FROM p_newsclass where f_id=0
+客户IP:127.0.0.1
+时间 :2016-04-19 08:32:04
+
+错误SQL语句：
+SELECT * FROM p_newsclass where f_id=0
+客户IP:127.0.0.1
+时间 :2016-04-19 08:33:04
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newclass` (`id`, `f_id`, `name`, `keyword`, `remark`) VALUES (NULL, '0', ' 视频教程', NULL, NULL)
+客户IP:127.0.0.1
+时间 :2016-04-19 08:44:07
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newclass` (`id`, `f_id`, `name`, `keyword`, `remark`) VALUES (NULL, '0', ' 视频', NULL, NULL)
+客户IP:127.0.0.1
+时间 :2016-04-19 08:44:22
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newclass` (`id`, `f_id`, `name`, `keyword`, `remark`) VALUES (NULL, '0', ' 视频', '', '')
+客户IP:127.0.0.1
+时间 :2016-04-19 08:48:01
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newclass` (`id`, `f_id`, `name`, `keyword`, `remark`) VALUES (NULL, '0', ' 新闻', '', '')
+客户IP:127.0.0.1
+时间 :2016-04-19 08:48:13
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newclass` (`id`, `f_id`, `name`, `keyword`, `remark`) VALUES (NULL, '0', ' 新闻', '', '')
+客户IP:127.0.0.1
+时间 :2016-04-19 08:48:26
+
+错误SQL语句：
+INSERT INTO `news_php100`.`p_newclass` (`id`, `f_id`, `name`, `keyword`, `remark`) VALUES (NULL, '0', ' 二次', '', '')
+客户IP:127.0.0.1
+时间 :2016-04-19 08:54:40
+
